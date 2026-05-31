@@ -51,7 +51,7 @@ By completing this problem set, I learned:
 | C   | [Merge Sort Trace](https://github.com/sourav-bhattacharya-github/100xDev/blob/main/All%20topic/19%20Sorting/Question/Weeks%2020.1/3_Merge_Sort_Trace.cpp)               |
 | D   | [Count Inversions](https://github.com/sourav-bhattacharya-github/100xDev/blob/main/All%20topic/19%20Sorting/Question/Weeks%2020.1/4_Count_Inversions.cpp)               |
 | E   | [Reverse Pairs](https://github.com/sourav-bhattacharya-github/100xDev/blob/main/All%20topic/19%20Sorting/Question/Weeks%2020.1/5_Reverse_Pairs.cpp)                     |
-| F   | [Sort String](https://github.com/sourav-bhattacharya-github/100xDev/blob/main/All%20topic/19%20Sorting/Question/Weeks%2020.2/6_Sort_String.cpp)                         |
+| F   | [Sort String](https://github.com/sourav-bhattacharya-github/100xDev/blob/main/All%20topic/19%20Sorting/Question/weeks%2020.2/6_Sort_String.cpp)                         |
 | G   | [Largest Number - I](https://github.com/sourav-bhattacharya-github/100xDev/blob/main/All%20topic/19%20Sorting/Question/weeks%2020.2/7_Largest_Number_I.cpp)             |
 | H   | [Sort Ages](https://github.com/sourav-bhattacharya-github/100xDev/blob/main/All%20topic/19%20Sorting/Question/weeks%2020.2/8_Sort_Ages.cpp)                             |
 | I   | [Temperature Records](https://github.com/sourav-bhattacharya-github/100xDev/blob/main/All%20topic/19%20Sorting/Question/weeks%2020.2/9_Temperature_Records.cpp)         |
